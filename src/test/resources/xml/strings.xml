@@ -1,0 +1,6 @@
+<?xml version = "1.0" encoding= "utf-8"?>
+<resources>
+
+<!-- Home Page Messages -->
+	<string name="SuccessMsg">successfully saved the changes</string>
+</resources>
